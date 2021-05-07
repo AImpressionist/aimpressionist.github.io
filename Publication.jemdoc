@@ -1,0 +1,98 @@
+# jemdoc: menu{MENU}{Publication.html}, nofooter
+=Full List of Publications
+
+== Preprints
+- *Xuhui Fan*, Bin Li, Ling Luo, Scott A. Sisson. \n
+“[https://arxiv.org/pdf/2002.11394.pdf Bayesian Nonparametric Space Partitions: A Survey]”.
+
+
+== Peer Reviewed Conference Papers
+. Yaqiong Li, *Xuhui Fan*, Ling Chen, Bin Li, Zheng Yu, Scott A. Sisson. \n
+“[https://www.ijcai.org/Proceedings/2020/0342.pdf Recurrent Dirichlet Belief Networks for Interpretable Dynamic Relational Data Modelling]”. \n
+The 29th International Joint Conference on Artificial Intelligence (*IJCAI-20*) [https://github.com/xuhuifan/Recurrent_DBN Code].
+. *Xuhui Fan*, Bin Li, Scott A. Sisson. \n
+“[http://proceedings.mlr.press/v108/fan20a/fan20a.pdf Online Binary Space Partitioning Forests]”. \n
+The 23rd International Conference on Artificial Intelligence and Statistics (*AISTATS-20*) [https://github.com/xuhuifan/Online_BSPF Code].
+. Zheng Yu, *Xuhui Fan*, Marcin Pietrasik, Marek Reformat. \n
+“[https://ojs.aaai.org//index.php/AAAI/article/view/6148 Fragmentation Coagulation Based Mixed-Membership Stochastic Blockmodel]”. \n
+The 34th AAAI Conference on Artificial Intelligence (*AAAI-20*).
+. *Xuhui Fan*, Bin Li, Scott A. Sisson, Caoyuan Li, Ling Chen. \n
+“[https://proceedings.neurips.cc/paper/2019/hash/a33f5792b2a9a51ddd0111b3ac6e0e76-Abstract.html Scalable Deep Generative Relational Models with High-Order Node Dependence]”. \n
+The 33rd Conference on Neural Information Processing Systems (*NeurIPS-19*) [https://github.com/xuhuifan/SDREM Code].
+. *Xuhui Fan*, Bin Li, Scott A. Sisson.\n
+“[http://proceedings.mlr.press/v89/fan19b.html Binary Space Partitioning Forests]”. \n
+The 22nd International Conference on Artificial Intelligence and Statistics (*AISTATS- 19*) [https://github.com/xuhuifan/BSP_Forests Code].
+. Feng Zhou, Zhidong Li, *Xuhui Fan*, Yang Wang, Arcot Sowmya, Fang Chen. \n
+“[https://link.springer.com/chapter/10.1007/978-3-030-16148-4_25 Hawkes Process with Stochastic Triggering Kernel]”. \n
+The 23rd Pacific-Asia Conference on Knowledge Discovery and Data Mining (*PAKDD- 19*).
+. *Xuhui Fan*, Bin Li, Scott A. Sisson. \n
+“[https://papers.nips.cc/paper/2018/hash/8ce87bdda85cd44f14de9afb86491884-Abstract.html Rectangular Bounding Process]”. \n
+The 32nd Conference on Neural Information Processing Systems (*NeurIPS-18*) [https://github.com/xuhuifan/RBP Code].
+. *Xuhui Fan*, Bin Li, Scott A. Sisson. \n
+“[http://proceedings.mlr.press/v84/fan18b.html The Binary Space Partitioning-Tree process]”. \n
+The 21st International Conference on Artificial Intelligence and Statistics (*AISTATS- 18*) [https://github.com/xuhuifan/BSP_Tree_Process Code].
+. Jianjia Zhang, Bin Li, *Xuhui Fan*, Yang Wang, Fang Chen.\n
+“[https://link.springer.com/chapter/10.1007/978-3-319-93034-3_18 Corrosion Prediction on Sewer Networks with Sparse Monitoring Sites: A Case Study]”. \n
+The 22nd Pacific-Asia Conference on Knowledge Discovery and Data Mining (*PAKDD-18*).
+. Feng Zhou, Zhidong Li, *Xuhui Fan*, Yang Wang, Fang Chen. \n
+“[https://link.springer.com/chapter/10.1007/978-3-319-93037-4_46 A Refined MISD Algorithm based on Gaussian Process Regression]”. \n
+The 22nd Pacific-Asia Conference on Knowledge Discovery and Data Mining (*PAKDD-18*).
+. *Xuhui Fan*, Richard YiDa Xu, Longbing Cao. \n
+“[https://dl.acm.org/doi/10.5555/3060621.3060824 Copula Mixed-Membership Stochastic Blockmodel]”. \n
+The 25th International Joint Conference on Artificial Intelligence (*IJCAI-16*) [https://github.com/xuhuifan/CopulaMMSB Code].
+. *Xuhui Fan*, Bin Li, Yi Wang, Yang Wang, Fang Chen.\n
+“[https://dl.acm.org/doi/abs/10.5555/3016100.3016115 The Ostomachion Process]”. \n
+The 30th AAAI Conference on Artificial Intelligence (*AAAI-16*).
+. Yi Wang, Bin Li, *Xuhui Fan*, Yang Wang, Fang Chen. \n
+“[https://www.ijcai.org/Proceedings/16/Papers/308.pdf Bayesian Optimization of Partition Layouts for Mondrian Processes]”. \n
+The 25th International Joint Conference on Artificial Intelligence (*IJCAI-16*).
+. *Xuhui Fan*, Lin Zhu, Longbing Cao, Xia Cui and Yee Soon Ong.\n
+“[https://dl.acm.org/doi/10.1145/2396761.2396842 Maximum Margin Clustering on Evolutionary Data]”. \n
+The 21th ACM international conference on Information and knowledge management (*CIKM-12*)
+. Wei Wei, *Xuhui Fan*, Jinyan Li, Longbing Cao. \n
+“[https://dl.acm.org/doi/10.1145/2396761.2398443 Model the Complex Dependence Structures of Financial Variables by Using Canonical Vine]”. \n
+ The 21th ACM international conference on Information and knowledge management (*CIKM-12*).
+. *Xuhui Fan*, Longbing Cao.\n
+“[https://ojs.aaai.org/index.php/AAAI/article/view/8410 A theoretical framework of the Graph Shift Algorithm]”. \n
+The 26th AAAI Conference on Artificial Intelligence (*AAAI-12*).
+
+
+== Peer Reviewed Journal Papers
+. Feng Zhou, Zhidong Li, *Xuhui Fan*, Yang Wang, Arcot Sowmya, Fang Chen.\n
+“[https://www.jmlr.org/papers/volume21/19-930/19-930.pdf Efficient Inference for Nonparametric Hawkes Process Using Polya-Gamma Augmentation]” \n
+Journal of Machine Learning Research (*JMLR*).
+. Yaqiong Li, *Xuhui Fan*, Eric Gaussier. \n
+“[https://ieeexplore.ieee.org/document/9146320 Supervised Categorical Metric Learning with Schatten p-Norms]”. \n
+IEEE Transaction on Cybernetics (*T-CYB*).
+. Caoyuan Li, Hongbo Xie, *Xuhui Fan*, Richard Yida Xu, Kerrie Mengersen, Scott A. Sisson, Sabine Vanhuffel. \n
+“[https://ieeexplore.ieee.org/document/9121775 Bayesian nonnegative matrix factorization with Dirichlet process mixtures]” \n
+IEEE Transaction on Signal Processing (*T-SP*).
+. Caoyuan Li, Hongbo Xie, *Xuhui Fan*, Richard Yida Xu, Kerrie Mengersen, Sabine Vanhuffel. \n
+“[https://ieeexplore.ieee.org/document/9044621 Kernelized Sparse Bayesian Matrix Factorization]”. \n
+ IEEE Transaction on Neural Networks and Learning Systems (*T-NNLS*).
+. Feng Zhou, Zhidong Li, *Xuhui Fan*, Yang Wang, Arcot Sowmya, Fang Chen. \n
+“[https://link.springer.com/article/10.1007%2Fs41060-020-00223-3 Fast multi-resolution segmentation for nonstationary Hawkes process using cumulants]”. \n
+International Journal Data Science Analysis.
+. Caoyuan Li, Hongbo Xie, *Xuhui Fan*, Richard Yida Xu, Scott Sisson, Kerrie Mengersen, Sabine Vanhuffel. \n
+“[https://ieeexplore.ieee.org/document/8700607 Image denoising based on nonlocal Bayesian singular value thresholding and Stein’s unbiased risk estimator]” \n IEEE Transaction on Image Processing (*T-IP*).
+. *Xuhui Fan*, Richard YiDa Xu, Longbing Cao. \n
+“[https://ieeexplore.ieee.org/document/7403961 Learning Relational Models by Efficiently Involving Node-Information in A Network]”. \n
+IEEE Transaction on Cybernetics (*T-CYB*) [https://github.com/xuhuifan/NodeInformativeMixedMembership Code].
+. *Xuhui Fan*, Longbing Cao.\n
+“[https://www.sciencedirect.com/science/article/abs/pii/S0031320315000734 A Convergence Theorem for the Graph Shift-type Algorithms]”. \n
+Pattern Recognition (*PR*) [https://github.com/xuhuifan/GraphShift_Matlab_Implementation Code].
+. *Xuhui Fan*, Longbing Cao, Richard YiDa Xu.\n
+“[https://ieeexplore.ieee.org/document/6965621 Dynamic Infinite Mixed-Membership Stochastic Blockmodel]”. \n
+IEEE Transaction on Neural Networks and Learning Systems (*T-NNLS*) [https://github.com/xuhuifan/DIM3_MTV Code].
+
+== Industrial Papers
+
+. Bin Liang, Dilusha Weeraddana, Zhidong Li, Shiyang Lu, *Xuhui Fan*, Yang Wang, Fang Chen, Gagneet Serai, Ivan Beirne. \n
+“Pipeline failure data analytics and prediction”. \n
+ Australia’s international water conference & exhibition (OZ-Water 2018).
+. Bin Li, *Xuhui Fan*, Jianjia Zhang, Yang Wang, Fang Chen, Louisa Vorreiter and Dammika Vitanage. \n
+“Predicative Analytics Toolkit For H2S Estimation and Sewer Corrosion”. \n
+ Australia’s international water conference & exhibition (OZ-Water 2017)
+. Bin Li, *Xuhui Fan*, Yang Wang, Fang Chen and Frank Spaninks. \n
+“Data-Driven Customer Segmentation for Water Demand Analysis”. \n
+ Australia’s international water conference & exhibition (OZ-Water 2016)
